@@ -18,8 +18,3 @@ To run tests, run the following command
   python Stone Paper Scissor.py
 ```
 
-
-## Features
-
-- Easy to play
-
